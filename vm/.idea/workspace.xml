@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bcef964d-d83f-4f7e-be47-69b5d5cb001d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../asm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/check_error.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/checks.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/cut_last.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/cuts.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/determine_codetype.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/exec_code_to_byte.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/parse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/print_errors.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/read_file.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/tokens.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/valid_name_and_comment.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/obj/write_info.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/extra_fun.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/find_flag.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/for_add.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/for_flags.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/for_p.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_arrfree.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_atoi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_bzero.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_foreach.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_isalnum.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_isalpha.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_isascii.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_isdigit.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_isprint.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_itoa.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_itoa_base.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_itoa_base_int.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_itoa_max.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_itoa_unslong.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstadd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstaddback.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstdel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstdelone.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstiter.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstmap.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_lstnew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memalloc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memccpy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memchr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memcmp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memcpy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memdel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memmove.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_memset.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_power.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_printf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putchar.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putchar_fd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putendl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putendl_fd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putint.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putnbr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putnbr_fd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putnumber.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putstr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putstr_fd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putstring.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_putunsnbr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_range.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_sqrt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strcat.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strchr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strclr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strcmp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strcpy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strdel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strdup.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strequ.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_striter.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_striteri.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strjoin.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strlcat.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strlen.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strmap.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strmapi.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strncat.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strncmp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strncpy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strnequ.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strnew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strnstr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strrchr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strsplit.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strstr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strsub.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_strtrim.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_swap.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_tolower.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/ft_toupper.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/get_next_line.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/if_flags.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/if_flags_d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/if_flags_ito.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/libft.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/not_spec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/number.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/specifier.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/unicode.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assembler/src/libft/valid.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../corewar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/corewar.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/corewar_exec_carr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/corewar_exit.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/corewar_init.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/corewar_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/corewar_vm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/op/corewar_op.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/op/corewar_op2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/op/corewar_op3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/op/corewar_op4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/parse/corewar_parse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/parse/corewar_parse_champion.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/parse/corewar_parse_options.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_handle_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_handle_wheel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_init.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_key_handle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_lock.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_mods.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_mods2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_motion_handle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_mouse_handle.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_arena.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_btmb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_mdlb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_pc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_pc_msg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_topb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_topb2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.object/vis/corewar_vis_render_utils.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_abs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_atoibase.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_gnl/ft_gnl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_itoabase.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_memalloc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_memcmp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_memdel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_memmove.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_memset.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_nbr_len.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_0_base.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_color.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_cspf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_diouxx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_fill_funs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_hash_zero_blank_plus.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_lhllhhl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_mod0_b_cap_udo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_parce_funs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_parse.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_prec.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_unicode.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_width.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_printf/ft_printf_zjt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strchr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strdel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strfrepl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strin.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strjoin.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strlen.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strncmp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strncpy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strndup.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strneject.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strnew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strnin.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strninject.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_strrchr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/.object/ft_swap.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libft/libft.a" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="666" />
+    <option name="y" value="23" />
+    <option name="width" value="1496" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcef964d-d83f-4f7e-be47-69b5d5cb001d" name="Default Changelist" comment="" />
+      <created>1558797009017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558797009017</updated>
+      <workItem from="1558797010505" duration="429000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="429000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="666" y="23" width="1496" height="1417" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22145805" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="make" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../assembler/src/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
